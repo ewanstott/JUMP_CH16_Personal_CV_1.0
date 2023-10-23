@@ -1,0 +1,17 @@
+Home
+About
+- skills
+- experince 
+- education 
+Services
+Projects
+Contact
+
+
+Qs
+Hero:
+- how to make hero image stay static 
+
+Portfolio: 
+- make 3 columns stack 
+- how to make portfolio images have a grey opacity filter 0.5 (to make darker)
